@@ -413,10 +413,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "minimouse"
+      "minimouse",
+      "minimouse_yousfi_footprint"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "minimouse_yousfi_sym"
     ]
   },
   "meta": {
